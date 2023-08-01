@@ -1,7 +1,11 @@
-[
-  {
-    "name: Dark",
-    "author": "Son Nguyen",
-    "desc": "Default dark theme of Pixquare"
-  }
-]
+{
+  "themes": [
+    {
+      "name": "Dark",
+      "author": "Son Nguyen",
+      "desc": "Default dark theme of Pixquare",
+      "versionNumber": 1,
+      "availableAssets": ["colors", "images"]
+    }
+  ]
+}
