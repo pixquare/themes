@@ -256,4 +256,7 @@ toggle_left_off.png
 toggle_left_on.png
 toggle_right_off.png
 toggle_right_on.png
+
+--- v1.8 ---
+ic_gallery_browser_settings_sort
 ```
