@@ -11,3 +11,5 @@ If none of the pre-builts themes fit your style, you can create your own. To cus
 
 To start, go to Files app, navigate to `Pixquare (or Pixaure Lite)/themes/Custom`. If the folder is not there, you can create it. After that, you can follow the theme structure to create whatever you want. Colors can be customized directly in the theme menu in Pixquare.
 
+## Remove downloaded themes
+To removed downloaded themes, you can go to `Files` app, then Pixquare's folder, then `themes`. Here you'll find the list of themes. Delete the folder(s) you want to delete, and done.
