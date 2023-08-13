@@ -6,6 +6,13 @@
       "desc": "Default dark theme of Pixquare",
       "versionNumber": 2,
       "availableAssets": ["colors", "images"]
+    },
+    {
+      "name": "LavenderBlossom",
+      "author": "Saryn",
+      "desc": "A light, breezy, and gentle theme for Pixquare.",
+      "versionNumber": 1,
+      "availableAssets": ["colors", "images"]
     }
   ]
 }
