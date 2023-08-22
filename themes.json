@@ -8,6 +8,13 @@
       "availableAssets": ["colors", "images"]
     },
     {
+      "name": "DarkCitrus",
+      "author": "kimonade",
+      "desc": "Dark theme with a touch of orange",
+      "versionNumber": 1,
+      "availableAssets": ["colors", "images"]
+    },
+    {
       "name": "LavenderBlossom",
       "author": "Saryn",
       "desc": "A light, breezy, and gentle theme for Pixquare.",
