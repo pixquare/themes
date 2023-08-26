@@ -259,4 +259,8 @@ toggle_right_on.png
 
 --- v1.8 ---
 ic_gallery_browser_settings_sort
+
+--- v1.9 ---
+ic_common_import
+ic_common_artwork
 ```
