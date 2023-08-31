@@ -263,4 +263,6 @@ ic_gallery_browser_settings_sort
 --- v1.9 ---
 ic_common_import
 ic_common_artwork
+--- v1.9.1 ---
+ic_menu_fullscreen
 ```
