@@ -268,4 +268,9 @@ ic_menu_fullscreen
 --- v1.10 ---
 ic_menu_guide_line
 ic_gallery_browser_settings_tips
+--- v1.11 ---
+ic_contextual_mask
+ic_layer_selector_clipping_mask
+ic_color_palette_shading
+ic_menu_language
 ```
