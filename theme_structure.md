@@ -269,8 +269,15 @@ ic_menu_fullscreen
 ic_menu_guide_line
 ic_gallery_browser_settings_tips
 --- v1.11 ---
-ic_contextual_mask
 ic_layer_selector_clipping_mask
 ic_color_palette_shading
 ic_menu_language
+--- v1.12 ---
+ic_contextual_clipping_mask
+ic_contextual_cropping_mask
+ic_layer_selector_clipping_mask
+ic_layer_selector_cropping_mask
+ic_layer_selector_animation_drag
+ic_menu_label
+ic_menu_snapping
 ```
