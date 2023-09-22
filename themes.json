@@ -20,6 +20,13 @@
       "desc": "A light, breezy, and gentle theme for Pixquare.",
       "versionNumber": 3,
       "availableAssets": ["colors", "images"]
+    },
+    {
+      "name": "æpple",
+      "author": "Saryn",
+      "desc": "A throwback to the Apple II days",
+      "versionNumber": 1,
+      "availableAssets": ["colors", "images"]
     }
   ]
 }
