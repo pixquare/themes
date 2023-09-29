@@ -280,4 +280,7 @@ ic_layer_selector_cropping_mask
 ic_layer_selector_animation_drag
 ic_menu_label
 ic_menu_snapping
+--- v1.13 ---
+ic_contextual_mask
+ic_tool_color_adjustment
 ```
