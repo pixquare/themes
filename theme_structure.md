@@ -283,4 +283,7 @@ ic_menu_snapping
 --- v1.13 ---
 ic_contextual_mask
 ic_tool_color_adjustment
+--- v2.0.0 ---
+ic_freemium_full_access
+ic_freemium_tip
 ```
