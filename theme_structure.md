@@ -286,4 +286,6 @@ ic_tool_color_adjustment
 --- v2.0.0 ---
 ic_freemium_full_access
 ic_freemium_tip
+--- v2.1.0 ---
+ic_preview_center
 ```
