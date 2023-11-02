@@ -288,4 +288,6 @@ ic_freemium_full_access
 ic_freemium_tip
 --- v2.1.0 ---
 ic_preview_center
+--- v2.2.0
+ic_contextual_outline
 ```
