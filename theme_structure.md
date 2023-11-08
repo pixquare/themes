@@ -289,5 +289,7 @@ ic_freemium_tip
 --- v2.1.0 ---
 ic_preview_center
 --- v2.2.0
-ic_contextual_outline
+ic_tool_outline
+--- v2.3.0 ---
+ic_tool_contour
 ```
