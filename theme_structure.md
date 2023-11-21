@@ -292,4 +292,8 @@ ic_preview_center
 ic_tool_outline
 --- v2.3.0 ---
 ic_tool_contour
+--- v2.4.0 ---
+ic_gallery_browser_settings_icloud
+ic_gallery_browser_settings_on_device
+ic_menu_zoom
 ```
