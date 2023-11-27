@@ -296,4 +296,6 @@ ic_tool_contour
 ic_gallery_browser_settings_icloud
 ic_gallery_browser_settings_on_device
 ic_menu_zoom
+--- v2.5.0 ---
+ic_contextual_tag
 ```
