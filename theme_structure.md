@@ -298,4 +298,9 @@ ic_gallery_browser_settings_on_device
 ic_menu_zoom
 --- v2.5.0 ---
 ic_contextual_tag
+--- v2.6.0 ---
+ic_layer_selector_add_tilemap_layer
+ic_tileset_add
+ic_tileset_remove
+ic_tileset
 ```
