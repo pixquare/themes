@@ -303,4 +303,11 @@ ic_layer_selector_add_tilemap_layer
 ic_tileset_add
 ic_tileset_remove
 ic_tileset
+--- v2.7.0 ---
+ic_tool_blur_tip
+ic_tool_jumble_tip
+ic_tool_spray_tip
+ic_tool_spray_with_opacity_tip
+submenu_path_bottom
+submenu_path_middle
 ```
