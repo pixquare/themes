@@ -190,7 +190,6 @@ ic_misc_remove.png
 ic_misc_small_x.png
 ic_preview.png
 ic_preview_close.png
-ic_preview_pan.png
 ic_preview_pause.png
 ic_preview_play.png
 ic_preview_resize.png
@@ -269,7 +268,6 @@ ic_menu_fullscreen
 ic_menu_guide_line
 ic_gallery_browser_settings_tips
 --- v1.11 ---
-ic_layer_selector_clipping_mask
 ic_color_palette_shading
 ic_menu_language
 --- v1.12 ---
