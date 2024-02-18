@@ -158,7 +158,6 @@ ic_layer_selector_trailing_linked.png
 ic_layer_selector_unlinked.png
 ic_layer_selector_unlocked.png
 ic_layer_selector_visible.png
-ic_menu_advanced_mode.png
 ic_menu_back.png
 ic_menu_canvas_rotate.png
 ic_menu_export.png
@@ -308,4 +307,6 @@ ic_tool_spray_tip
 ic_tool_spray_with_opacity_tip
 submenu_path_bottom
 submenu_path_middle
+--- v2.10.0 ---
+ic_tool_custom_objects
 ```
