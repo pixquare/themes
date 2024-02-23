@@ -261,8 +261,6 @@ ic_gallery_browser_settings_sort
 --- v1.9 ---
 ic_common_import
 ic_common_artwork
---- v1.9.1 ---
-ic_menu_fullscreen
 --- v1.10 ---
 ic_menu_guide_line
 ic_gallery_browser_settings_tips
@@ -309,4 +307,10 @@ submenu_path_bottom
 submenu_path_middle
 --- v2.10.0 ---
 ic_tool_custom_objects
+--- v2.11.0 ---
+handy_joystick_black_white
+handy_joystick_knob
+ic_menu_looping
+ic_tool_dither_noise
+submenu_path_straight
 ```
