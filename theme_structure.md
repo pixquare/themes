@@ -313,4 +313,10 @@ handy_joystick_knob
 ic_menu_looping
 ic_tool_dither_noise
 submenu_path_straight
+--- v2.12.0 ---
+ic_preview_navigation
+ic_multi_tab
+ic_multi_tab_expand
+ic_multi_tab_collapse
+ic_multi_tab_unsaved
 ```
