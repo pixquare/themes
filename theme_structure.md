@@ -319,4 +319,7 @@ ic_multi_tab
 ic_multi_tab_expand
 ic_multi_tab_collapse
 ic_multi_tab_unsaved
+ic_info_coordinate
+ic_info_origin
+ic_info_size
 ```
