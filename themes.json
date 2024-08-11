@@ -48,6 +48,13 @@
       "desc": "A throwback to the Apple II days",
       "versionNumber": 1,
       "availableAssets": ["colors", "images"]
+    },
+    {
+      "name": "Asequare",
+      "author": "OldSkull",
+      "desc": "A tribute to Aseprite",
+      "versionNumber": 1,
+      "availableAssets": ["colors", "images", "font"]
     }
   ]
 }
