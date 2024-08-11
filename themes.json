@@ -1,6 +1,13 @@
 {
   "themes": [
     {
+      "name": "Asequare",
+      "author": "OldSkull",
+      "desc": "A tribute to Aseprite",
+      "versionNumber": 1,
+      "availableAssets": ["colors", "images", "font"]
+    },
+    {
       "name": "Dark",
       "author": "Son Nguyen",
       "desc": "Default dark theme of Pixquare",
@@ -48,13 +55,6 @@
       "desc": "A throwback to the Apple II days",
       "versionNumber": 1,
       "availableAssets": ["colors", "images"]
-    },
-    {
-      "name": "Asequare",
-      "author": "OldSkull",
-      "desc": "A tribute to Aseprite",
-      "versionNumber": 1,
-      "availableAssets": ["colors", "images", "font"]
     }
   ]
 }
