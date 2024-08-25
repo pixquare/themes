@@ -43,6 +43,13 @@
       "availableAssets": ["colors", "images", "font"]
     },
     {
+      "name": "MiniSunny",
+      "author": "Sunny",
+      "desc": "Bright Yellow theme",
+      "versionNumber": 1,
+      "availableAssets": ["colors", "images", "font"]
+    },
+    {
       "name": "PurplePixel",
       "author": "Nanipixart",
       "desc": "Soothing purple UI with charming little cats hidden throughout",
