@@ -4,7 +4,7 @@
       "name": "Asequare",
       "author": "OldSkull",
       "desc": "A tribute to Aseprite",
-      "versionNumber": 1,
+      "versionNumber": 2,
       "availableAssets": ["colors", "images", "font"]
     },
     {
