@@ -324,4 +324,6 @@ ic_info_origin
 ic_info_size
 --- v2.16.0 ---
 ic_misc_refresh
+--- v2.23.0 ---
+ic_menu_fun
 ```
