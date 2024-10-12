@@ -36,6 +36,13 @@
       "availableAssets": ["colors", "images"]
     },
     {
+      "name": "Matcha",
+      "author": "Tofu / Cafe Dot",
+      "desc": "Warm cozy greens and browns.",
+      "versionNumber": 1,
+      "availableAssets": ["colors", "images", "font"]
+    },
+    {
       "name": "Minimal_Modern",
       "author": "Jaxrud (inspired by MortMort and Blender UI)",
       "desc": "Dark modern theme with blue accents",
