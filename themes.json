@@ -64,6 +64,13 @@
       "availableAssets": ["colors", "images", "font"]
     },
     {
+      "name": "SunnyChristmas",
+      "author": "Sunny",
+      "desc": "Christmas theme by Sunny",
+      "versionNumber": 1,
+      "availableAssets": ["colors", "images", "font"]
+    },
+    {
       "name": "æpple",
       "author": "Saryn",
       "desc": "A throwback to the Apple II days",
