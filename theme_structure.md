@@ -69,7 +69,6 @@ Each <color> is this:
 ```
 
 ### \*\* **All images files** (images added later will be at the bottom)
-
 ```
 checkbox_box.png
 checkbox_check_mark.png
