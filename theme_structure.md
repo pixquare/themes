@@ -20,7 +20,7 @@ Here are the explanation for each file/folder:
    - Theme name cannot be `Default`. If planned to contribute to this repo, the name can not be `Custom` either.
    - Theme name can only have alpha-numeric characters.
    - `Custom` is a special theme name. It doesn't require the `info.json`. This is where you will store your custom theme for local use. When you edit colors in Pixquare theme settings, this folder will be created with the `colors.json`. You can also create this folder manually. Other elements can be added to this to acts as a normal theme.
-  - (2) This is where you'll store the colors info for the theme. Take a look at (\*) for the template.
+  - (2) This is where you'll store the colors info for the theme. Take a look at [hi](#color) for the template.
   - (3) This is where you'll store the images for the theme.
   - (4) Images has to be `png` format. Take a look at (\*\*) for the list of images name
     - The default images for Pixquare that I design are only 16x16, but you can increase that to make them as high-res as you want, however, I recommend to keep them 128x128 or below. Going beyond that doesn't really change anything.
@@ -39,8 +39,9 @@ Here are the explanation for each file/folder:
 ```
   
   As an example for (1), (3), and (7), you can take a look at the default [Dark](./Dark) theme in this repo as the reference. I will make sure that this theme will have all the images available in Pixquare.
-  
-  \* **color.json template**
+
+  ### color
+  ### \* **color.json template**
   ```
   {
   "primary": <color>,
@@ -68,7 +69,7 @@ Each <color> is this:
 }
 ```
 
-\*\* **All images files** (images added later will be at the bottom)
+### \*\* **All images files** (images added later will be at the bottom)
 ```
 checkbox_box.png
 checkbox_check_mark.png
