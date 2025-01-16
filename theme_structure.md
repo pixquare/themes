@@ -326,7 +326,9 @@ ic_info_size
 ic_misc_refresh
 --- v2.23.0 ---
 ic_menu_fun
---- v2.45.0
+--- v2.45.0 ---
 ic_tool_stabilizer
 ic_common_swap
+--- v2.47.0 ---
+ic_tool_post_processing
 ```
