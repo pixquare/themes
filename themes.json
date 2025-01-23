@@ -76,6 +76,13 @@
       "desc": "A throwback to the Apple II days",
       "versionNumber": 1,
       "availableAssets": ["colors", "images"]
+    },
+    {
+      "name": "Znyong",
+      "author": "zmeu",
+      "desc": "Rose gold theme",
+      "versionNumber": 1,
+      "availableAssets": ["colors", "images", "font"]
     }
   ]
 }
