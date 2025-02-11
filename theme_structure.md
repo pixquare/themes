@@ -331,4 +331,6 @@ ic_tool_stabilizer
 ic_common_swap
 --- v2.47.0 ---
 ic_tool_post_processing
+--- v2.48.0 ---
+ic_tileset_duplicate
 ```
