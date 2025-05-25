@@ -11,7 +11,7 @@
       "name": "Dark",
       "author": "Son Nguyen",
       "desc": "Default dark theme of Pixquare",
-      "versionNumber": 34,
+      "versionNumber": 35,
       "availableAssets": ["colors", "images"]
     },
     {
@@ -25,7 +25,7 @@
       "name": "Elegance",
       "author": "Son Nguyen",
       "desc": "Modern and elegant theme for Pixquare",
-      "versionNumber": 20,
+      "versionNumber": 21,
       "availableAssets": ["colors", "images", "font"]
     },
     {
