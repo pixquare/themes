@@ -78,13 +78,6 @@
       "availableAssets": ["colors", "images", "font"]
     },
     {
-      "name": "æpple",
-      "author": "Saryn",
-      "desc": "A throwback to the Apple II days",
-      "versionNumber": 1,
-      "availableAssets": ["colors", "images"]
-    },
-    {
       "name": "Znyong",
       "author": "zmeu",
       "desc": "Rose gold theme",
