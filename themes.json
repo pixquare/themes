@@ -83,6 +83,13 @@
       "desc": "Rose gold theme",
       "versionNumber": 1,
       "availableAssets": ["colors", "images", "font"]
+    },
+    {
+      "name": "aepple",
+      "author": "Saryn",
+      "desc": "A throwback to the Apple II days",
+      "versionNumber": 1,
+      "availableAssets": ["colors", "images"]
     }
   ]
 }
