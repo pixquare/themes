@@ -333,4 +333,9 @@ ic_common_swap
 ic_tool_post_processing
 --- v2.48.0 ---
 ic_tileset_duplicate
+--- v2.56.0 ---
+ic_contextual_fx
+ic_contextual_z
+ic_menu_hover
+ic_tool_levels_adjustment
 ```
