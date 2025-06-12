@@ -71,6 +71,13 @@
       "availableAssets": ["colors", "images", "font"]
     },
     {
+      "name": "Radiata_Luminaris",
+      "author": "lilyzuki",
+      "desc": "A cute pink and blurple theme based on my mascot!",
+      "versionNumber": 1,
+      "availableAssets": ["colors", "images", "font"]
+    },
+    {
       "name": "SunnyChristmas",
       "author": "Sunny",
       "desc": "Christmas theme by Sunny",
