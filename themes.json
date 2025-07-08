@@ -1,6 +1,13 @@
 {
   "themes": [
     {
+      "name": "AliceInWonderland",
+      "author": "Cheria",
+      "desc": "Pastel blue with bunnies and more!",
+      "versionNumber": "1",
+      "availableAssets": ["colors", "images", "font"]
+    },
+    {
       "name": "Asequare",
       "author": "OldSkull",
       "desc": "A tribute to Aseprite",
