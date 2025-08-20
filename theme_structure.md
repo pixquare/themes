@@ -338,4 +338,10 @@ ic_contextual_fx
 ic_contextual_z
 ic_menu_hover
 ic_tool_levels_adjustment
+--- v2.57.0 ---
+ic_contextual_custom_data
+--- v2.58.0 ---
+ic_tool_color_remap
+ic_menu_color_depth
+ic_color_palette_color_reduction
 ```
