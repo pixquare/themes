@@ -344,4 +344,8 @@ ic_contextual_custom_data
 ic_tool_color_remap
 ic_menu_color_depth
 ic_color_palette_color_reduction
+--- v2.60.0 ---
+ic_gallery_browser_auto_backup
+--- v2.61.0
+ic_tool_presets
 ```
