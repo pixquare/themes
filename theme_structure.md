@@ -346,6 +346,11 @@ ic_menu_color_depth
 ic_color_palette_color_reduction
 --- v2.60.0 ---
 ic_gallery_browser_auto_backup
---- v2.61.0
+--- v2.61.0 ---
 ic_tool_presets
+--- v2.67.0 ---
+ic_gallery_browser_learn
+ic_gallery_browser_youtube
+ic_contextual_properties
+ic_tool_modifier
 ```
