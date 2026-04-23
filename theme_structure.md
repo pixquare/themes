@@ -322,6 +322,8 @@ ic_multi_tab_unsaved
 ic_info_coordinate
 ic_info_origin
 ic_info_size
+ic_info_frame
+ic_info_layer
 --- v2.16.0 ---
 ic_misc_refresh
 --- v2.23.0 ---
