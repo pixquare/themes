@@ -355,4 +355,11 @@ ic_gallery_browser_learn
 ic_gallery_browser_youtube
 ic_contextual_properties
 ic_tool_modifier
+--- v2.69.0 ---
+dino_idle (row sprite-sheet - 4 square frames)
+dino_run (row sprite-sheet - 6 square frames)
+dino_walk (row sprite-sheet - 6 square frames)
+ic_misc_pinned
+ic_misc_unpinned
+ic_tool_liquify
 ```
