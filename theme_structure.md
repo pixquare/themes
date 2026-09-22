@@ -362,4 +362,7 @@ dino_walk (row sprite-sheet - 6 square frames)
 ic_misc_pinned
 ic_misc_unpinned
 ic_tool_liquify
+--- v2.73.0 ---
+ic_layer_selector_add_magic_layer
+ic_layer_selector_magic_layer
 ```
